@@ -22,11 +22,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Once logged in, create a new role with full permissions. 
+- Create some departments and agents and assign them to whatever roles you like.
+- Create a new team so different departments can work together.
+- Add some users.
+- Save all their information and other important info on a notepad.
 
 <h2>Configuration Steps</h2>
 
